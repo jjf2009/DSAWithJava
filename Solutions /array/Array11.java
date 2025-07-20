@@ -5,7 +5,6 @@ import java.util.List;
 public class Array11 {
     public static void main(String[] args) {
         List<List<String>> items = new ArrayList<>();
-         ArrayList<String> ans = new ArrayList<String>();
          int count=0,category;
 
         String ruleKey ="color";
